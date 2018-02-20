@@ -1,0 +1,7 @@
+# Τΰιλ Sources
+TARGETNAME=kbdhook
+TARGETTYPE=DRIVER
+#DRIVERTYPE=WDM
+TARGETPATH=obj
+SOURCES=driver.c \
+        ..\general.c

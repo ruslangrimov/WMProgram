@@ -1,0 +1,9 @@
+# Τΰιλ Sources
+TARGETNAME=WMService
+TARGETTYPE=DRIVER
+#DRIVERTYPE=WDM
+TARGETPATH=obj
+SOURCES=Driver.c	\
+	ntcallhooks.c	\
+        aes_algoritm.c  \
+        ..\general.c

@@ -1,0 +1,41 @@
+BODY
+{
+	background-color:#f4f4c6;
+	font-size:14;
+	text-indent: 15px;
+}
+
+A
+{
+	color:Navy;
+}
+
+H1
+{
+	color:Navy;
+	text-align:left;
+	text-indent: 15px;
+	font-size:24;
+	border-style:solid;
+	border-width:0px;
+	border-bottom-width: 2px;
+	border-color:Navy;	
+	padding-bottom: 5px;
+	padding-top: 3px;	
+	background-color:#FFFFE0;
+}
+
+.attension
+{
+	padding-left: 20px;
+	background-color:#f4f4c6;
+	color: Maroon;
+}
+
+.mainpage
+{
+	background-color:#f4f4c6;
+	font-size:18;
+	text-indent: 15px;
+}
+

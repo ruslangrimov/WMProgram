@@ -1,0 +1,8 @@
+# Τΰιλ Sources
+TARGETNAME=afdhook
+TARGETTYPE=DRIVER
+#DRIVERTYPE=WDM
+TARGETPATH=obj
+SOURCES=driver.c \
+        fastio.c \
+        ..\general.c 

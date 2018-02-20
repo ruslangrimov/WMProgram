@@ -1,0 +1,59 @@
+[OPTIONS]
+Auto Index=Yes
+Binary Index=No
+Compatibility=1.1 or later
+Compiled file=wmhelp.chm
+Contents file=Table of Contents.hhc
+Default Window=Navigation Pane
+Default topic=main.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x419 Русский
+Title=WM Program
+
+[WINDOWS]
+Navigation Pane=,"Table of Contents.hhc",,"main.htm","main.htm",,,,,0x42020,,0x304e,,,,,,,,0
+
+
+[FILES]
+page1.htm
+page2.htm
+main.htm
+page5.htm
+page3.htm
+page4.htm
+page6.htm
+
+[ALIAS]
+100=page1.htm
+1000=page10.htm
+10000=main.htm
+101=page1.htm#el1
+102=page1.htm#el2
+103=page1.htm#el3
+104=page1.htm#el4
+105=page1.htm#el5
+200=page2.htm
+201=page2.htm#el1
+202=page2.htm#el2
+203=page2.htm#el3
+204=page2.htm#el4
+300=page3.htm
+301=page3.htm#el1
+302=page3.htm#el2
+400=page4.htm
+401=page4.htm#el1
+402=page4.htm#el2
+403=page4.htm#el3
+500=page5.htm
+501=page5.htm#el1
+502=page5.htm#el2
+503=page5.htm#el3
+504=page5.htm#el4
+600=page6.htm
+
+[MAP]
+#include map.h
+
+[INFOTYPES]
+
